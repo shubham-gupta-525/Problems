@@ -13,3 +13,5 @@ for i in range (num):
         d.popleft()
         
 print(' '.join(d))
+
+# hi
